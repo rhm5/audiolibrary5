@@ -6,6 +6,7 @@
 После того, как Telegram заработает, обязательно подпишитесь [**НА ЭТОТ КАНАЛ**](https://t.me/ProxyMTProto). Прокси-серверы периодически банят, поэтому время от времени их надо менять. На этом канале ежедневно выкладывают десятки прокси и вы всегда можете выбрать подходящий. 
 
 ---
+В настройках телеграм по умолчанию установлено меню включения прокси.  
 
 ## 🗝 Как установить прокси для телеграм 
 
@@ -13,13 +14,13 @@
 
 Жмите поочерёдно на каждую ссылку 👇 
 
-**[Ссылка 1](https://t.me/proxy?server=VIP.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)** 
+**[Прокси 1](https://t.me/proxy?server=VIP.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)** 
 
-**[Ссылка 2](https://t.me/proxy?server=nitro.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)** 
+**[Прокси 2](https://t.me/proxy?server=nitro.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)** 
 
-**[Ссылка 3](https://t.me/proxy?server=s1.sosproxy.space&port=443&secret=ee668f277db019fe88c30c8e498e72446764726976652e676f6f676c652e636f6d)** 
+**[Прокси 3](https://t.me/proxy?server=s1.sosproxy.space&port=443&secret=ee668f277db019fe88c30c8e498e72446764726976652e676f6f676c652e636f6d)** 
 
-**[Ссылка 4](https://t.me/proxy?server=82.22.35.237&port=443&secret=eede4561475230e254519f3011f0f32a976d61782e7275)** 
+**[Прокси 4](https://t.me/proxy?server=82.22.35.237&port=443&secret=eede4561475230e254519f3011f0f32a976d61782e7275)** 
 
 ---
 
